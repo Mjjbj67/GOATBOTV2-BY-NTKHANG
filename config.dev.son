@@ -26,9 +26,9 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "OWNER": "ᏋᎷᎮᏋᏒᏋᏬᏒ ᏝᎥᎶᏂᏖ ᎩᏗᎶᏗᎷᎥ",
-  "AGE": "18",
+  "AGE": "14",
   "GENDER": "MALE",
-  "nickNameBot": "Yazkybot",
+  "nickNameBot": "༺✮•°||𝔚𝔥𝔦𝔱𝔢𝔉𝔬𝔵 ||°•✮༻",
   "FACEBOOK": "https://www.facebook.com/profile.php?id=100091289477923&mibextid=ZbWKwL",
   "prefix": "/",
   "database": {
@@ -41,7 +41,7 @@
   "timeZone": "Asia/Ho_Chi_Minh",
   "credentials": {
     "gmailAccount": {
-      "email": "kamgasobkillianberyl@gmail.com",
+      "email": "",
       "clientId": "335951889803-q0sqvpqjire12vl0c1drqpvq6trqe7qi.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04vKSsirtbMjRCgYIARAAGAQSNwF-L9Ir45Y2gJy6rg7wvfCbzF5fTFQxOhV83N6jQC-N5n6S-rNnEUgujiuWu4OvrLEbmELMcSI",
