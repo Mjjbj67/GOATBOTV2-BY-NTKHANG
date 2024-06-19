@@ -29,7 +29,7 @@
   "AGE": "14",
   "GENDER": "MALE",
   "nickNameBot": "༺✮•°||𝔚𝔥𝔦𝔱𝔢𝔉𝔬𝔵 ||°•✮༻",
-  "FACEBOOK": "https://www.facebook.com/profile.php?id=100091289477923&mibextid=ZbWKwL",
+  "FACEBOOK": "100091289477923",
   "prefix": "/",
   "database": {
     "type": "sqlite",
